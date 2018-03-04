@@ -1,3 +1,4 @@
 Devinette : Plus ou Moins
 
-Jeu test pour l'utilisation de git & github.
+Game test to learn git & github.
+Jeu test pour apprendre git & github.
